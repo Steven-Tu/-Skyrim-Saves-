@@ -1,10 +1,10 @@
-skse64 loader 02010020 (steam) 01D87D18968160B0 6.2 (9200)
-loader base addr = 00007FFB611F0000
-exe base addr = 00007FF651B90000
-found iat at 00007FF653193D48
+skse64 loader 02010020 (steam) 01D87D3357032098 6.2 (9200)
+loader base addr = 00007FFBA6830000
+exe base addr = 00007FF6E3690000
+found iat at 00007FF6E4C93D48
 original thunk 00007FFBB82D2FB0
 patched iat
-HookMain: thread = 8088 retaddr = 00007FF6530061FA
+HookMain: thread = 11528 retaddr = 00007FF6E4B061FA
 runtimePath = E:\The Elder Scrolls V Skyrim Special Edition\SkyrimSE.exe
 dwSignature = FEEF04BD
 dwStrucVersion = 00010000
