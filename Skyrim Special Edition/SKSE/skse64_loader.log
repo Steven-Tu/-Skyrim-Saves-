@@ -1,7 +1,7 @@
-skse64 loader 02010020 01D87EFD05990B17 6.2 (9200)
-config path = E:\The Elder Scrolls V Skyrim Special Edition\Data\SKSE\skse.ini
-procPath = E:\The Elder Scrolls V Skyrim Special Edition\\SkyrimSE.exe
-launching: SkyrimSE.exe (E:\The Elder Scrolls V Skyrim Special Edition\\SkyrimSE.exe)
+skse64 loader 02010020 01D87EFDEC83E17A 6.2 (9200)
+config path = E:\The Elder Scrolls V Skyrim Kridla\Data\SKSE\skse.ini
+procPath = E:\The Elder Scrolls V Skyrim Kridla\\SkyrimSE.exe
+launching: SkyrimSE.exe (E:\The Elder Scrolls V Skyrim Kridla\\SkyrimSE.exe)
 dwSignature = FEEF04BD
 dwStrucVersion = 00010000
 dwFileVersionMS = 00010006
@@ -19,9 +19,9 @@ productVersionStr = 1.6.318.0
 version = 00010006013E0000
 product name = TESV: Skyrim
 steam exe
-dll = E:\The Elder Scrolls V Skyrim Special Edition\\skse64_1_6_318.dll
-main thread id = 59628
-hookBase = 000001A244E80000
+dll = E:\The Elder Scrolls V Skyrim Kridla\\skse64_1_6_318.dll
+main thread id = 45124
+hookBase = 0000022E6CE20000
 loadLibraryAAddr = 00007FFF9727F500
 getProcAddressAddr = 00007FFF972793B0
 hook thread complete
