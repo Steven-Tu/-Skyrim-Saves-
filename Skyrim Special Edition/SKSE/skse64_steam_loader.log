@@ -1,10 +1,10 @@
-skse64 loader 02010020 (steam) 01D87EFDECB46D1A 6.2 (9200)
-loader base addr = 00007FFF80E60000
+skse64 loader 02010020 (steam) 01D87F694765E895 6.2 (9200)
+loader base addr = 00007FFF49390000
 exe base addr = 00007FF68F4E0000
 found iat at 00007FF690AE3D48
 original thunk 00007FFF95722FB0
 patched iat
-HookMain: thread = 45124 retaddr = 00007FF6909561FA
+HookMain: thread = 27852 retaddr = 00007FF6909561FA
 runtimePath = E:\The Elder Scrolls V Skyrim Kridla\SkyrimSE.exe
 dwSignature = FEEF04BD
 dwStrucVersion = 00010000
