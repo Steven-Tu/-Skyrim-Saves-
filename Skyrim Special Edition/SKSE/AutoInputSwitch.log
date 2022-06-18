@@ -1,0 +1,5 @@
+main.cpp(30): [info] AutoInputSwitch v1.1.3
+main.cpp(46): [info] AutoInputSwitch loaded
+Trampoline.cpp(114): [info] Default Trampoline => 0B / 8B (00.00%)
+Trampoline.cpp(114): [info] Default Trampoline => 8B / 8B (100.00%)
+Hooks.cpp(13): [info] Installed all hooks
