@@ -1,0 +1,16 @@
+
+*.f4se
+*.fos
+Fallout4/F4SE/f4se.log
+Fallout4/F4SE/f4se_loader.log
+Fallout4/F4SE/f4se_steam_loader.log
+Fallout4/F4SE/MCM.log
+Fallout4/Fallout4.ini
+Fallout4/Fallout4.ini.baked
+Fallout4/Fallout4.ini.base
+Fallout4/Fallout4Custom.ini
+Fallout4/Fallout4Custom.ini.baked
+Fallout4/Fallout4Custom.ini.base
+Fallout4/Fallout4Prefs.ini
+Fallout4/Fallout4Prefs.ini.baked
+Fallout4/Fallout4Prefs.ini.base
