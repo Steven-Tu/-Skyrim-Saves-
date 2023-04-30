@@ -1,4 +1,4 @@
-skse64 loader 02010020 01D88993500853CD 6.2 (9200)
+skse64 loader 02010020 01D97BA5D4EF63DF 6.2 (9200)
 config path = C:\Program Files (x86)\Steam\steamapps\common\Skyrim SE\Data\SKSE\skse.ini
 procPath = C:\Program Files (x86)\Steam\steamapps\common\Skyrim SE\\SkyrimSE.exe
 launching: SkyrimSE.exe (C:\Program Files (x86)\Steam\steamapps\common\Skyrim SE\\SkyrimSE.exe)
@@ -20,9 +20,9 @@ version = 00010006013E0000
 product name = TESV: Skyrim
 steam exe
 dll = C:\Program Files (x86)\Steam\steamapps\common\Skyrim SE\\skse64_1_6_318.dll
-main thread id = 21192
-hookBase = 0000019F1EC10000
-loadLibraryAAddr = 00007FF81F57F500
-getProcAddressAddr = 00007FF81F5793B0
+main thread id = 26644
+hookBase = 000002B224F40000
+loadLibraryAAddr = 00007FFDAC1695A0
+getProcAddressAddr = 00007FFDAC163EF0
 hook thread complete
 launching
